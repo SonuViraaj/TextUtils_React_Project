@@ -7,7 +7,7 @@ import React, { useState } from 'react';
 import Alert from './components/Alert';
 
 import {
-  BrowserRouter as Router,
+  BrowserRouter,
   Routes,
   Route
 } from "react-router-dom";
@@ -48,7 +48,7 @@ function App() {
 
   return (
     <> 
-    <Router basename='/TextUtils_React_Project'>
+    <BrowserRouter >
    <Navbar title="Textutils" about="About" mode={mode} toggleMode={toggleMode} />
    <Alert alert={alert}/>
    <div className="container my-3">
@@ -67,7 +67,7 @@ function App() {
      </Routes>
    {/**<About/>  */}
    </div>
-   </Router>
+   </BrowserRouter>
     </>
   );
 }
