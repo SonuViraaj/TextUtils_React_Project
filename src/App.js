@@ -48,7 +48,7 @@ function App() {
 
   return (
     <> 
-    <Router>
+    <Router basename='/TextUtils_React_Project'>
    <Navbar title="Textutils" about="About" mode={mode} toggleMode={toggleMode} />
    <Alert alert={alert}/>
    <div className="container my-3">
