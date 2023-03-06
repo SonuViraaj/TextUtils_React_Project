@@ -1,15 +1,15 @@
 {
   "main.css": "/TextUtils_React_Project/static/css/main.a5891868.chunk.css",
-  "main.js": "/TextUtils_React_Project/static/js/main.32db112e.chunk.js",
-  "main.js.map": "/TextUtils_React_Project/static/js/main.32db112e.chunk.js.map",
+  "main.js": "/TextUtils_React_Project/static/js/main.2ce35dc2.chunk.js",
+  "main.js.map": "/TextUtils_React_Project/static/js/main.2ce35dc2.chunk.js.map",
   "static/js/1.3bc8ac50.chunk.js": "/TextUtils_React_Project/static/js/1.3bc8ac50.chunk.js",
   "static/js/1.3bc8ac50.chunk.js.map": "/TextUtils_React_Project/static/js/1.3bc8ac50.chunk.js.map",
-  "static/js/2.596c5b9f.chunk.js": "/TextUtils_React_Project/static/js/2.596c5b9f.chunk.js",
-  "static/js/2.596c5b9f.chunk.js.map": "/TextUtils_React_Project/static/js/2.596c5b9f.chunk.js.map",
+  "static/js/2.f1f9f425.chunk.js": "/TextUtils_React_Project/static/js/2.f1f9f425.chunk.js",
+  "static/js/2.f1f9f425.chunk.js.map": "/TextUtils_React_Project/static/js/2.f1f9f425.chunk.js.map",
   "runtime~main.js": "/TextUtils_React_Project/static/js/runtime~main.6df15055.js",
   "runtime~main.js.map": "/TextUtils_React_Project/static/js/runtime~main.6df15055.js.map",
   "static/css/main.a5891868.chunk.css.map": "/TextUtils_React_Project/static/css/main.a5891868.chunk.css.map",
   "index.html": "/TextUtils_React_Project/index.html",
-  "precache-manifest.f0277bc05ac9eec9ac1f132a53a3557d.js": "/TextUtils_React_Project/precache-manifest.f0277bc05ac9eec9ac1f132a53a3557d.js",
+  "precache-manifest.6319ee7eee76574e9604b3539e3e09f2.js": "/TextUtils_React_Project/precache-manifest.6319ee7eee76574e9604b3539e3e09f2.js",
   "service-worker.js": "/TextUtils_React_Project/service-worker.js"
 }
